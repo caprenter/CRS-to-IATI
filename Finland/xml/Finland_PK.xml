@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:12+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2005-120-66501901</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">50120</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66501901</other-identifier>
+    <title xml:lang="en">HUMANITARIAN AID TO PAKISTAN THROUGH FINNISH RED CROSS /IFRC/EARTHQUAKE</title>
+    <description xml:lang="en">RELIEF AID TO EARTHQUAKE VICTIMS.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2005-01-01"/>
+    <activity-date type="end-planned" iso-date="2005-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="">IFRC</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="72010">Material relief assistance and services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2005-01-01">1242854</value>
+      <transaction-date iso-date="2005-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2005-01-01">3355705</value>
+      <transaction-date iso-date="2005-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">1255178</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">1255178</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">821355</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">821355</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1192053</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1192053</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2005-126-66502001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">50126</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502001</other-identifier>
+    <title xml:lang="en">HUMANITARIAN AID THROUGH FINNISH CHURCH AID TO EARTHQUAKE VICTIMS</title>
+    <description xml:lang="en">RELIEF AID TO EARTHQUAKE VICTIMS.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2005-01-01"/>
+    <activity-date type="end-planned" iso-date="2005-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="">FINNISH CHURCH AID</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="72010">Material relief assistance and services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2005-01-01">372856</value>
+      <transaction-date iso-date="2005-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">502071</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">502071</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">529801</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">529801</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2005-239-66502301</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">50239</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502301</other-identifier>
+    <title xml:lang="en">EMERGENCY AID THROUGH UNHCR</title>
+    <description xml:lang="en">EMERGENCY AID TO THE VICTIMS OF THE EARTHQUAKE IN PAKISTAN</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2005-01-01"/>
+    <activity-date type="end-planned" iso-date="2005-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="">UNHCR</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="72010">Material relief assistance and services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2005-01-01">1242854</value>
+      <transaction-date iso-date="2005-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">684463</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">684463</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">1740705</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">1740705</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1324503</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1324503</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-23-66502501</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007000023</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502501</other-identifier>
+    <title xml:lang="en">Humanitarian aid to Pakistan through UNICEF</title>
+    <description xml:lang="en">Emergency aid to the victims of flooding in Pakistan</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-04-03"/>
+    <activity-date type="end-planned" iso-date="2007-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="41122">United Nations Children's Fund</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="72010">Material relief assistance and services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">547570</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">547570</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">974795</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">974795</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">2119205</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">2119205</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-239-5360</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007070239</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">5360</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Fida Int.)</title>
+    <description xml:lang="en">Empowering Partner for Community Development. The project seeks to improve the capacity of a local partner in social work. Pakistan is one of the poorest countries in the world. Child labour is very common and large amounts of Pakistani children remain without basic education. Fida partners with the Assemblies of God (AOG) church of Peshawar in order to address the needs of the people in North West Pakistan. The project comprises of three main components: Community Health Education (CHE) in the local villages_ adult literacy classes and the establishment of a pre-school. Fida and AOG work together in the local communities_ which provide the partner with hands-on training in practical community development work. As the partnerâs capacities build up_ the social work the church does will improve. The CHE component will help the communities in becoming the main actors in their own development and the pre-school will provide the children with much-needed education. These elements together will contribute towards the overall improvement in life management and quality of life in the local communities.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-03-15"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <location>
+      <name>North West Frontier Province</name>
+    </location>
+    <sector code="16050">Multisector aid for basic social services</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">72221</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">53725</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">54409</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">163543</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-332-23610</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007070332</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">23610</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen Lahetysseura ry)</title>
+    <description xml:lang="en">Tank Basic Health Care Work. Supporting Tank Hospital_s work with mother and child care systems_ health education_ family planning.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-02-22"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <location>
+      <name>Peshawar</name>
+    </location>
+    <sector code="13020">Reproductive health care</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">8029</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">11981</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">6809</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-338-36630</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007070338</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">36630</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen Lahetysseura ry)</title>
+    <description xml:lang="en">Support to Advocacy Campaign of CLAAS. Supporting an international advocacy campaing on certain laws in Pakistanian legistalation.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="92020">Support to international NGOs</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">29179</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">37878</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">17759</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-9020-99900003</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007009020</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">99900003</other-identifier>
+    <title xml:lang="en">Administrative costs at MFA from the Embassy of Finland in Islamabad</title>
+    <description xml:lang="en">Administrative costs at MFA, related to ODA. These costs cover all costs that can be counted (in full or percentually) as ODA at the Ministry for Foreign Affairs in Finland. Administrative costs at MFA  from the Embassy of Finland in Islamabad</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2007-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="91010">Administrative costs</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">71766</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">71766</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">657826</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">657826</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">718929</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">718929</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">634786</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">634786</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-1061-4001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008081061</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">4001</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (SASK)</title>
+    <description xml:lang="en">The aim of this village school project in Punjab province is to cut down the use of child labour in the village, to improve children's health and educational standards, and to spread literacy. Apart from school teaching the project provides both health care and contraceptive advice for the children's families, especially the mothers.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="11220">Primary education</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">128119</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">48942</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">34024</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-1067-4013</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008081067</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">4013</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (SASK)</title>
+    <description xml:lang="en">The aim of the project is that the workers from the Textile and Home Based Women sectors specifically and from the other sectors in general will be better aware, organized and linked with the relevant institutions to improve their status and to eradicate poverty.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="16020">Employment policy and administrative management</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">99896</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">34405</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-107-66502101</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080107</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502101</other-identifier>
+    <title xml:lang="en">Humanitarian Aid to Pakistan through WFP</title>
+    <description xml:lang="en">Earthquake relief: logistics</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2005-11-10"/>
+    <activity-date type="end-planned" iso-date="2008-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="41140">World Food Programme</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="73010">Reconstruction relief and rehabilitation</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">144238</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">144238</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">2367358</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">2367358</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">3046358</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">3046358</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-108-66502601</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080108</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502601</other-identifier>
+    <title xml:lang="en">NGO Support / LambLamp School Project in Pakistan</title>
+    <description xml:lang="en">Arrange the school and classrooms_ get high quality teaching material_ encourage the parents to send their children to school. Offer free education_ school clothes_ books and dealy meal.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-11-14"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <location>
+      <name>Jhelum_ Pakistan</name>
+    </location>
+    <sector code="11120">Education facilities and training</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">36781</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">11837</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">11258</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-298-665PL216</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080298</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">665PL216</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Plan Finland)</title>
+    <description xml:lang="en">Mainstreaming Child-Centred Disaster Risk Reduction. Capacity building on and mainstreaming of Disaster Risk Reduction in Plan and partner programmes_ as well as making communities more resilient to hazards. To mobilize communities_ especially children and youth_ to assess risks_ analyze the causes and come up with mitigation measures and preparedness plans</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">478148</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">155119</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">63342</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1036-660SP994</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091036</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">660SP994</other-identifier>
+    <title xml:lang="en">Frame Agreement with NGO (Finnish Red Cross)</title>
+    <description xml:lang="en">Community Development. To improve the lives and the general health and sanitation conditions of vulnerable communities through the promotion of the community based health care and water and sanitation activities.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="12261">Health education</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">578029</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">164495</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1668-66501501-24</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091668</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66501501-24</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">Appni Sehat - Our Health. Targeted to the growth of the prevention of HIV/AIDS and sexually transmitted diseases in Lahore for prostitutes, their customers and among the community. Also offer medical services for women prositutes and their families.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="12250">Infectious disease control</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">36207</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">34814</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">6623</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-195-66502102</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100195</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502102</other-identifier>
+    <title xml:lang="en">Humanitarian aid to Pakistoan the through WHO</title>
+    <description xml:lang="en">Humanitarian aid to the victims of flooding in Pakistan through WHO</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-08-09"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="41307">World Health Organisation (WHO)</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="72010">Material relief assistance and services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1711621</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1711622</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-196-66502901</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100196</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502901</other-identifier>
+    <title xml:lang="en">Humanitarian Aid to Pakistan trough IOM</title>
+    <description xml:lang="en">Support to IOM Humanitarian Assistance Programmes in Pakistan.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-12-14"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="47066">International Organization for Migration (IOM)</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="72010">Material relief assistance and services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">662252</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">662252</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-209-66502801</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100209</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66502801</other-identifier>
+    <title xml:lang="en">Reconstruction and Development in Pakistan's North West Frontier Regio</title>
+    <description xml:lang="en">The Multidonor Trust Fund finances projects in Pakistanâs North West Frontier Region to (i) promote enhanced, sustainable and accountable delivery of basic services, including education, health, and administration of justice; (ii) support livelihoods and community-based development of basic infrastructure and services; (iii) support peace building activities and promote rapid crisis recovery; (iv) recover the destruction caused by the floats in the most affected provinces.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-04-06"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="44000">World Bank Institute (WBI)</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <location>
+      <name>Pakistan; Balochistan, Sindh</name>
+    </location>
+    <sector code="73010">Reconstruction relief and rehabilitation</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">7501452</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">4894958</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-463-66500001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100463</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500001</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">Administrative costs</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-03-11"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="91010">Administrative costs</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="G01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">6623</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">2753</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-464-66500002</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100464</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500002</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">The project Greening of Galiyat aims to provide the local population in and around 5-10 kms of Nathiagali an opportunity to develop commercial activity leading to job opportunities for a growing population. The development of fruit/fuel growing trees in the area is likely to influence large scale growing of fruit in the areas beyond the target area. The organisation will organise planting of 10 500 fruit trees and 10 000 fuel plants. </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-02-15"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="31165">Agricultural alternative development</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">2152</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">2152</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-465-66500003</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100465</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500003</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">The areas of activity in the Project are: juvenile justice; alternative care for children without family support; child labour; child abuse and exploitation; and children's right to participate and association. </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-03-26"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="15160">Human rights</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">58808</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">58808</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-466-66500004</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100466</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500004</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">PIEDAR will implement a Project called "Centre for Environmental Education through Participatory Action Learning" (CEEPAL). A national network of schools is imparting environmental education through participatory action learning. The project also demonstrates values and shares knowledge for sustainable development in Pakistan and seeks to influence Government policies and practices for Environmental Education. Special attention is given to communicating climate change. </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-05-06"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="41081">Environmental education/ training</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">100000</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">100000</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-467-66500005</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100467</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500005</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">The project "Awareness and prevention of HIV &amp; AIDS among female sex workers" has been designed for awareness and prevention of HIV&amp;AIDS among female sex workers in Sargodha and Iqbal Town in Lahore. The goal of the project is to create an enabling environment for empowerment of sex workers for protected sex and improved health-seeking behaviour leading to prevention of HIV&amp; AIDS among sex workers and eunuchs. The objectives of the project is to promote the conditions that encourages sex workers and general community particularly the clients of sex workers to take steps to protect themselves against STIs and HIV infections and to provide affordable and accessible health facilities especially for female sex workers and children with focus on primary health care, reproductive health and STIs management. </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-05-28"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="13040">STD control including HIV/AIDS</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">9536</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">9536</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-468-66500006</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100468</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500006</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">ROZAN will implement a Project called "Aangan - To reduce stigma around the issue of child sexual abuse by advocating, building capacity and raising awareness among individuals, professionals, institutions and organizations". The Aangan resource center aims to advocate more efficiently and effectively towards the formation of child protection and safety mechanisms and provide information to individuals regarding safe childhood, not only as a means of preventing children from child sexual abuse but also giving them an environment that ensures safety and enhances self-confidence. It also plans to build research as a necessary component, which would serve as a tool for advocating on the issues Aangan has been struggling with at either attitudinal level of individuals towards the issue or in bringing about a prominent and promising change in the child protection system. </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-05-28"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="15160">Human rights</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">121854</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">121854</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-469-66500007</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100469</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500007</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">The project "HIV/AIDS Awareness Raising Programme for Population of Kalash Valleys and Additional Schemes" has been designed to create awareness and educate the communities of the three valleys on HIV/AIDS, STDs, Hepatitis B &amp; C and TB.  In addition the project includes five small additional schemes, e.g. building a school room and an irrigation channel, which cover other needs in the valleys. </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-06-18"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="13040">STD control including HIV/AIDS</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">10861</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">10861</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-470-66500008</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100470</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500008</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">The project "Improving Thermal Efficiency of Buildings" will take place in Phunder Valley and Ishkoman Valley of Ghizar District in Gilgit-Baltistan and Mastuj Valley in Chitral District in NWFP. The Goal of the Project is to contribute to improve the socio-economic conditions of the poor people of the target communities through the installation of EE&amp;HI products, contributing in reducing green house gases emission, ease pressure on local forests and improving health indicators through the provision of better habitat. The project also promotes gender equality. </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-09"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="41020">Biosphere protection</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">68132</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">54305</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-471-66500009</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100471</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500009</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">The project "Awareness and prevention of HIV &amp; AIDS among vulnerable groups (FSWs, eunuchs and Youths)" has been designed for awareness and prevention of HIV&amp;AIDS among these groups in Red light Area Lahore, Iqbal Town Lahore and Sargodha. The goal of the project is to create an enabling environment for empowerment of vulnerable groups for protected sex and improved health-seeking behaviour leading to prevention of HIV&amp; AIDS among sex workers, youths and eunuchs. The objectives of the project is to promote the conditions that encourages sex workers, eunuchs and youths particularly the clients of sex workers to take steps to protect themselves from STIs and HIV infections and to provide affordable and accessible health facilities especially for female sex workers &amp; their family members, eunuchs and youths with focus on reproductive health, STIs management and primary health care.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-09-06"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="13040">STD control including HIV/AIDS</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">86490</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">69139</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-472-66500010</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100472</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66500010</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">Sanjog will implement a project called "Youth Empowerment Project" (YEP) in Quetta, Baluchistan. The project goal is to enable vulnerable children (male-female) of ethnic and religious minorities in particular, to combat all kinds of abuse and exploitation, substance abuse &amp; STDs and to empower them for a socially and economically sound life. Major activities are capacity building of community organisations, awareness raising, life skills education, non-formal education, technical skill building and psycho-social counselling and medical aid.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-09-28"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="11230">Basic life skills for youth and adults</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">53709</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">53709</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-473-66501501</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100473</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">66501501</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Pakistan</title>
+    <description xml:lang="en">Improving Thermal Efficiency of Buildings in Northern Pakistan. Improving the thermal efficiency in Phunder valley by offering energy efficient technologies and construction methids. Reducing use of wood and lowering the carbon dioxide.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-02-10"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <location>
+      <name>Local</name>
+    </location>
+    <sector code="23081">Energy education/training</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">6641</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">19</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-663-665PL222</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100663</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">665PL222</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Plan Finland)</title>
+    <description xml:lang="en">Mainstreaming child-centred disaster risk management</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Plan Finland</participating-org>
+    <recipient-country code="PK">Pakistan</recipient-country>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">51740</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

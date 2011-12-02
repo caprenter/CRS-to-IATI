@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:11+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-81-45100201</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080081</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">45100201</other-identifier>
+    <title xml:lang="en">NGO Support / Youth Employment</title>
+    <description xml:lang="en">Of the young people: The lack of a) access to training opportunities_ due to their few economic resources b) contacts and oppotunities to get jobs_ and c) experience to get their first job. Of the educative offer: Lack of proper training and education jo join labour offer and demand_ as well as the high training costs.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-11-14"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PY">Paraguay</recipient-country>
+    <sector code="11330">Vocational training</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">245204</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">118368</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">112583</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1279-45100401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091279</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">45100401</other-identifier>
+    <title xml:lang="en">NGO Support / DIPECHO VI Promoting risk reduction initiatives in communities vulnera</title>
+    <description xml:lang="en">Paraguayan Chaco zone in the past 10 years has been going through recurrent droughts. These successive drought emergencies have made an impact among the most vulnerable indigenous population. Aim of the project is to promote risk reduction initiatives and disaster preparedness in communities most vulnerable to the drought in the Chaco zone.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-11-18"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="PY">Paraguay</recipient-country>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">46534</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">44260</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">44260</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1631-45100301-1</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091631</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">45100301-1</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Paraguay</title>
+    <description xml:lang="en">Promotion of general access to public information. The main target of the project is to lower the severe corruption situation in Paraguay by traning and distributing information to the members of the public and local authorities.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="PY">Paraguay</recipient-country>
+    <sector code="15113">#N/A</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">40245</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">20123</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">17296</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-424-45100002</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100424</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">45100002</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Paraguay</title>
+    <description xml:lang="en">Project conducts the Center of Civic Educationâs educational program about democracy ("Project citizen") through distance teaching. The aim is to promote pupilsâ learning of concepts of democracy and stimulate their interest towards societal questions and civil acting by training teachers about these matters. Through this training teachersâ will gain skills and tools to awake interest in pupils towards societal issues. Implementation of the program from distance enables greater number of participants as teachers can participate easily without losing classes. The fundamental aim of the project is to encourage proactive and socially responsible culture of participation within pupils.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-05-10"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PY">Paraguay</recipient-country>
+    <sector code="11110">Education policy and administrative management</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">23587</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">22644</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-425-45100301</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100425</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">45100301</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Paraguay</title>
+    <description xml:lang="en">Promotion of general access to public information. The main target of the project is to lower the severe corruption situation in Paraguay by traning and distributing information to the members of the public and local authorities.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="PY">Paraguay</recipient-country>
+    <sector code="15113">#N/A</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">19139</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

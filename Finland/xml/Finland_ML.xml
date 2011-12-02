@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:09+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-145-25500901</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">60145</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">25500901</other-identifier>
+    <title xml:lang="en">NGO SUPPORT/ SINSIBERE-3COMBATING DESERTIFIC. W. WOMEN'S SUSTAINABLE LIVELIH.</title>
+    <description xml:lang="en">AIM: TO IMPROVE ENVIRONEMTNAL SUSTAINABILITY AND LIVELIHOOD IN THE COMMUNITIES THROUGH COMBATING DEFORESTATION AND DESERTIFICATION; TO CONTRIBUTE TO WIDER COMBAT AGAINST ENVIRONMENTAL DEGRADATION IN MALI THROUGH NATION-WIDE AWARENESS RAISING. ACTIVITIES: </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="20000">NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY</participating-org>
+    <recipient-country code="ML">Mali</recipient-country>
+    <location>
+      <name>Province of Koulikoro, municipalities of Bougoula, Sanankoroba, Dialakor</name>
+    </location>
+    <sector code="43040">Rural development</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">212823</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">79280</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">24102</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">84102</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">168284</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">97541</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">64465</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-175-25501001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100175</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">25501001</other-identifier>
+    <title xml:lang="en">Humanitarian aid to Mali through ICRC</title>
+    <description xml:lang="en">Support to the ICRC's humanitarian assistance Programmes in Mali.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-10-19"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen Punainen Risti</participating-org>
+    <recipient-country code="ML">Mali</recipient-country>
+    <sector code="72010">Material relief assistance and services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">662252</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">662252</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

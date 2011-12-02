@@ -1,0 +1,2830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:12+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2000-2007-76905001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905001</other-identifier>
+    <title xml:lang="en">VIE/THAI BINH WATER SUPPLY PRO</title>
+    <description xml:lang="en">WATER SUPPLY SYSTEM IN THAI BINH, AF</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2000-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-01"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="">Ministry of Finance, Vietnam</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2000-01-01">1312832</value>
+      <transaction-date iso-date="2000-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2002-12-31">50891</value>
+      <transaction-date iso-date="2002-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2003-12-31">54841</value>
+      <transaction-date iso-date="2003-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">140655</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">150507</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">92086</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">43037</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">61355</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">15330</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2003-3088-76906101</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">33088</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906101</other-identifier>
+    <title xml:lang="en">SUPPORT TO THE WATER SECTOR</title>
+    <description xml:lang="en">DEVELOP URBAN WATER SUPPLY AND SANITATION SERVICES IN THE TARGET AREA IN AN ECONOMICALLY SUSTAINABLE AND DEMAND DRIVEN MANNER</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2004-01-01"/>
+    <activity-date type="end-planned" iso-date="2007-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2003-01-01">5727036</value>
+      <transaction-date iso-date="2003-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2005-01-01">17314193</value>
+      <transaction-date iso-date="2005-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">3202535</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">7653758</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">7299801</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">1445991</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">3537499</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">163033</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1665734</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2004-2003-76906401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">42003</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906401</other-identifier>
+    <title xml:lang="en">UPGRADING ELECTRICITY NETWORK</title>
+    <description xml:lang="en">NETWORK UPGRADING PROJECT IN HA NAM, NAM DINH AND LANG SON PROVINCES</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2004-03-01"/>
+    <activity-date type="end-planned" iso-date="2017-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="23040">Electrical transmission/ distribution</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2004-01-01">2462255</value>
+      <transaction-date iso-date="2004-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">210242</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">289298</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">320926</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">187958</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">62287</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">95043</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2004-2009-76906901</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">42009</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906901</other-identifier>
+    <title xml:lang="en">HAIPHONG STORM WATER PUMPING STATION IN VIETNAM</title>
+    <description xml:lang="en">REDUCE FLOODING DAMAGES</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2004-12-01"/>
+    <activity-date type="end-planned" iso-date="2016-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="41050">Flood prevention/control</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2004-01-01">1504420</value>
+      <transaction-date iso-date="2004-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">61165</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">102921</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">162556</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">123226</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">68984</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2004-3014-76906501</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">43014</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906501</other-identifier>
+    <title xml:lang="en">FORESTRY TRUST FUND</title>
+    <description xml:lang="en">THE SUSTAINABLE MANAGEMENT OF FORESTS AND BIODIVERSITY TO ACHIEVE A) PROTECTION OF THE ENVIRONMENT B) IMPROVED LIVELIHOODS IN FOREST DEPENDENT AREAS AND C) ENHANCED CONTRIBUTION OF FORESTRY TO ECONOMY</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2004-02-01"/>
+    <activity-date type="end-planned" iso-date="2006-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="31210">Forestry policy and administrative management</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2004-01-01">5218040</value>
+      <transaction-date iso-date="2004-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">17385352</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">1505818</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">685129</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">1457742</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">115521</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">3187871</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2004-3051-76906601</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">43051</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906601</other-identifier>
+    <title xml:lang="en">TARGETED POVERTY PROGRAMMES IN VIETNAM</title>
+    <description xml:lang="en">THE PURPOSE OF THE TARGETED POVERTY REDUCTION PROGRAMMES IS TO ALLEVIATE POVERTY AMONGST THE POOREST OF THE POOR IN VIETNAM, NAMELY AMONGST THE ETHNIC MINORITIES.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2005-12-01"/>
+    <activity-date type="end-planned" iso-date="2007-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="51010">General budget support</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2004-01-01">621195</value>
+      <transaction-date iso-date="2004-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">21338019</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">5475702</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">5422417</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">7994204</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">9421651</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">105895</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">8408790</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2004-3450-76906801</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">43450</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906801</other-identifier>
+    <title xml:lang="en">SELF-MANAGEMENT AND DEVELOPMENT IN VILLAGES IN VIETNAM</title>
+    <description xml:lang="en">FOLLOW-UP AND STRENGTHENING OF AN EARLIER PILOT PROJECT CONCERNING LOCAL DEMOCRACY IN VIETNAM</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2005-01-01"/>
+    <activity-date type="end-planned" iso-date="2005-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="15150">Strengthening civil society</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2004-01-01">14213</value>
+      <transaction-date iso-date="2004-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2005-01-01">96943</value>
+      <transaction-date iso-date="2005-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">35145</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">34223</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">36059</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">184416</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">65184</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2005-8-76907001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">50008</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907001</other-identifier>
+    <title xml:lang="en">SOLAR ENERGY PROJECT IN VIETNAM</title>
+    <description xml:lang="en">SOLAR ENERGY PROJECT IN VIETNAM</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2004-01-01"/>
+    <activity-date type="end-planned" iso-date="2016-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>North of Vietnam</name>
+    </location>
+    <sector code="23067">Solar energy</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2005-01-01">4091350</value>
+      <transaction-date iso-date="2005-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">695240</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">149043</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-2002-76907401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">62002</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907401</other-identifier>
+    <title xml:lang="en">UPGRADING OF THE ELECTRICITY SUPPLY NETWORK SYSTEM (MINISCADA) IN VIETNAM</title>
+    <description xml:lang="en">INSTALLING MINISCADA ELECTRICITY NETWORK AND CONTROL SYSTEMS IN FIVE TOWNS OF CENTRAL VIETNAM.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Da Nang, Hue, Qui Nhon and BuoMa Thout in Central Vietnam</name>
+    </location>
+    <sector code="23040">Electrical transmission/ distribution</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">9997561</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">70797</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">284644</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">1928581</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">465590</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">298710</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-2003-76907501</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">62003</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907501</other-identifier>
+    <title xml:lang="en">THANH HOA HOSPITAL EQUIPMENT PROJECT IN VIETNAM</title>
+    <description xml:lang="en">THANH HOA HOSPITAL EQUIPMENT PROJECT IN VIETNAM</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2021-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Thanh Hoa</name>
+    </location>
+    <sector code="12191">Medical services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">3074771</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">51138</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">244805</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">30004</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">207524</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">98569</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-248-76907301</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">60248</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907301</other-identifier>
+    <title xml:lang="en">PROJECT PREPARATION IN VIETNAM</title>
+    <description xml:lang="en">THE FUNDS ARE DEDICATED FOR THE FINNISH EMBASSY IN HANOI TO PERFORM IDENTIFICATION, PREPARATION, MONITORING AND STEERING, AND EVALUATION OF DEVELOPMENT COOPERATION INTERVENTIONS, AS WELL AS OTHER TASKS RELATED TO THE IMPLEMENTATION OF FINNISH DEVELOPMENT </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2006-02-06"/>
+    <activity-date type="end-planned" iso-date="2006-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="43010">Multisector aid</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">25104</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2006-12-31">14196</value>
+      <transaction-date iso-date="2006-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">90021</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">61098</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">123131</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">78645</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">84476</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">75960</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">133522</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">59090</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-301-89843901</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">60301</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">89843901</other-identifier>
+    <title xml:lang="en">INTERNATIONAL ENERGY AUDIT PROGRAMME IEAP IN VIETNAM, PHASE I</title>
+    <description xml:lang="en">THIS TWO-PHASE ENERGY AUDITING PROJECT IN VIETNAM IS PART OF SUPPORTING THE LAUNCHING OF THE INTERNATIONAL ENERGY AUDITING PROGRAMME, IEAP. THE OBJECTIVE OF THE FIRST PHASE OF THE PROJECT IS IDENTIFYING POTENTIAL FOR IMPROVING ENERGY EFFICIENCY IN CERTAIN</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2006-11-10"/>
+    <activity-date type="end-planned" iso-date="2006-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="23010">Energy policy and administrative management</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">75311</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">738535</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">82136</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">778162</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">689879</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">836523</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">136756</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">593411</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">593411</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-7691-76905401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">67691</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905401</other-identifier>
+    <title xml:lang="en">LOCAL COOPERATION FUND (LCF) IN VIETNAM</title>
+    <description xml:lang="en">PREVENTION OF TRAFFICKING OF WOMEN AND PROMOTION OF SAFE MIGRATION. CONTINUATION OF ADDRESSING ACUTE ISSUE OF HUMAN-TRAFFINCKING AND LABOUR MIGRATION IN NAM DINH. FURTHER SENSITISATION OF ISSUES IN SCHOOLS AND COMMUNITIES. IDENTIFY MECHANISMS FOR COLLABOR</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2008-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Local</name>
+    </location>
+    <sector code="15160">Human rights</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">62759</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">72119</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">58383</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">14007</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-253-5171</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007070253</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">5171</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Fida Int.)</title>
+    <description xml:lang="en">People with Disabilities Empowerment Programme. The Empowerment Programme aims at improving the learning and working opportunities of people with disabilities in the Danang Province. In Vietnam majority of the people with disabilities live a life of social exclusion and poverty. Fida works together with the Danang Department of Education and Training in addressing the needs of this vulnerable and underprivileged people group. The programme responds to the situation through e.g. providing training and materials to teachers_ raising awareness among the local communities and upgrading the physical facilities of special schools. Support to vocational training and micro enterprise formation are also central to the programme. As the learning and working opportunities of people with disabilities increase_ they will have more choices in life.  As a result_ the disabled will integrate better to the society and their standard of living will improve.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-03-15"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Danang Province</name>
+    </location>
+    <sector code="16010">Social/ welfare services</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">125742</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">102340</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">137530</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">441566</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-309-19700</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007070309</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19700</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen Lahetysseura ry)</title>
+    <description xml:lang="en">Health and Hygiene Promotion project of Church World Service Vietnam. To improve the quality of life for ethnic minority people and other disadvantaged groups by incrasing the access to and the quality of the health service and practice of hygiene behaviour.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Lai Chau</name>
+    </location>
+    <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">65564</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">85365</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">36585</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-5005-VNM2005024</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007005005</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">VNM2005024</other-identifier>
+    <title xml:lang="en">ODA equity through Finnfund</title>
+    <description xml:lang="en">Fund to invest in SMEs</description>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="24040">Informal/semi-formal financial intermediaries</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="512"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">6509240</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">213552</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">742824</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">921877</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1422438</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-9027-99900003</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007009027</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">99900003</other-identifier>
+    <title xml:lang="en">Administrative costs at MFA from the Embassy of Finland in Hanoi</title>
+    <description xml:lang="en">Administrative costs at MFA, related to ODA. These costs cover all costs that can be counted (in full or percentually) as ODA at the Ministry for Foreign Affairs in Finland. Administrative costs at MFA from the Embassy of Finland in Hanoi</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2007-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="91010">Administrative costs</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2007-01-01">1098123</value>
+      <transaction-date iso-date="2007-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">1098123</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">1512222</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">1512222</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">1652685</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">1652685</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1533594</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1533594</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-9989-76907201</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007009989</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907201</other-identifier>
+    <title xml:lang="en">Support to the CC-Projects in Vietnam</title>
+    <description xml:lang="en">Support to the CC-Projects in Vietnam, using consultant work</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2006-01-01"/>
+    <activity-date type="end-planned" iso-date="2007-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="99810">Sectors not specified</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">26932</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">288475</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">123478</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">278513</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">152227</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">120114</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">200</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2007-9998-76906201</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2007009998</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906201</other-identifier>
+    <title xml:lang="en">Rao II Bridge Project, Haiphong</title>
+    <description xml:lang="en">Strengthening the infrastructure of the road traffic</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2005-01-01"/>
+    <activity-date type="end-planned" iso-date="2007-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Haiphong</name>
+    </location>
+    <sector code="21020">Road transport</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">45550</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">58271</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">12100</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">52176</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">3</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">29856</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-1064-4004</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008081064</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">4004</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (SASK)</title>
+    <description xml:lang="en">The project aims to improve working conditions and the position of employees and to increase productivity in Vietnamese export companies by means of well-functioning labour relations and socially responsible business operations. The goal is to have the target companies comply with the minimum criteria of the Business Social Compliance Initiative (BSCI). A group of Finnish companies importing from Vietnam will participate in the project together with the largest trade union centre of Finland, SAK.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="16020">Employment policy and administrative management</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">40776</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">89813</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">21358</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-1068-4014</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008081068</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">4014</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (SASK)</title>
+    <description xml:lang="en">The aim of the project is to build a stronger trade union movement and functioning labour relations with the private sector in Vietnam.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="16020">Employment policy and administrative management</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">330014</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">68934</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-130-76906102</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080130</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906102</other-identifier>
+    <title xml:lang="en">Support to water sector in Vietnam_ Phase II</title>
+    <description xml:lang="en">The planning of the second phse of WSPST has started. The planning mission has done the first draft project document. The appraisal mission will start in May 2008. The aim of the WSPST II is 1) to expand the construction of water and sanitation system to new target towns_ 2) to support the sustainable administration and maintenance of water supply and sewerage_ and 3) to institutionalise the revolving fund in the Vietnam Development Bank. The second phase will last 2009-2012 and the budget will be 12_7 mill. euros. Finnish contribution will be 10_5 mill. euros.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-09-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">15144959</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">2785127</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1796026</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-131-76907601</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080131</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907601</other-identifier>
+    <title xml:lang="en">VIET/Medical equipment investment project for General Hospital of Cao</title>
+    <description xml:lang="en">Medical equipment investment project for General Hospital of Cao Bang. Modern equipment and instruments provided by Finnish company GE Healthcare.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-07-10"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Cao Bang</name>
+    </location>
+    <sector code="12191">Medical services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">1293144</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">200244</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">25036</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">28628</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-132-76907801</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080132</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907801</other-identifier>
+    <title xml:lang="en">ONE UN  pilot process in Vietnam</title>
+    <description xml:lang="en">Support to Vietnam_s One UN pilot process.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-11-13"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="41000">UNITED NATIONS AGENCIES, FUNDS AND COMMISSIONS</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Vietnam</name>
+    </location>
+    <sector code="43010">Multisector aid</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="1" code="5">Biological Diversity</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <policy-marker significance="1" code="8">Desertification</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">3605943</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">1153902</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">2367358</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">1671076</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">2781457</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1986755</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-133-76907901</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080133</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907901</other-identifier>
+    <title xml:lang="en">Innovation Partnership Programme</title>
+    <description xml:lang="en">In its Socio-Economic Development Plan_ the Goverment of Vietnam has set knowledge-based economy and the building of companies_ innovation capacities as one of this main targets. Development Plan as well as Vietnam_s Science and Technology Development Strategy 2010 emphasise the importance of the development of financing and management structures_ stregthening of education and innovation training_ marketing of innovations as well as the integration of the Vietnamese stekolders into the international innovation systems and markets.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-12-15"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Vietnam</name>
+    </location>
+    <sector code="22040">Information and communication technology (ICT)</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">4327131</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">254179</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">2649007</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1286672</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-301-769PL204</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080301</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">769PL204</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Plan Finland)</title>
+    <description xml:lang="en">Reduction of Violence against Children. To reduce the incidence of violence against the most vulnerable children in remote areas with a special focus on the prevention of physical and emotional punishment (PEP)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="16010">Social/ welfare services</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">1483485</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">260830</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">483634</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-302-769PL215</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080302</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">769PL215</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Plan Finland)</title>
+    <description xml:lang="en">Integration of the Human Rights-based Approach. To strengthen the capacity of local partners and Plan to apply the human rights-based approach so that all programmes will apply the key principles like non-discrimination_ participation_ best interest of the child etc in the local context</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="15160">Human rights</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">275855</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">48151</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">54807</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-408-19696</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080408</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19696</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen Lahetysseura ry)</title>
+    <description xml:lang="en">AFESIP/ Vietnam Against Human Traficking. Support to the victims of human trafficking</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-01-01"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Hanoi and Ho Chi Minh</name>
+    </location>
+    <sector code="15160">Human rights</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">36781</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">6057</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">40180</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1705-76905401-52</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091705</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905401-52</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Quang Tri improves its adaptive capacity and recilience to climate chang. Local communities in Quang Tri province improves its adaptive capacity and resilience to climate change. 1.To enhance capacity of community based disaster risk management and climate change adaptation for local partners and local communities.  2.To facilitate farmerled action research in the local area including sandy land reformation, sand fill up use, droughts related to crop varieties and irrigation and salt intrusion. 3. To enhance the community resilience to climate change adaptation through livelihoods improvement.  4. To advocate the integration of climate change and disaster risks management into the social economic planning of commune and district level.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="41081">Environmental education/ training</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="6">Climate Change</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">334215</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">133686</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">127152</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1706-76905401-53</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091706</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905401-53</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Capacity building on climate change for civil society organizations. Capacity building on climate change for civil society organizations. To raise awareness and build up capacity of civil society, focusing on NGOs and their partners, to effectively respond to and integrate climate change adaptation and mitigation into relevant existing and future programs to contribute to long term sustainable development of the country and Vietnamese people.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="41081">Environmental education/ training</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="6">Climate Change</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">309149</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">123660</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">117616</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1707-76905401-54</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091707</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905401-54</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">A Transparent and Sustainable Society in Youth's hand. A Transparent and Sustainable Society in Youth's hand. 1. The level of awareness, knowledge and skills of volunteer club members on building a transparent and sustainable society are increased 2. A network of the youth for a transparent and sustainable society is established 3. Topics of a transparent and sustainable society are shared, disseminated by volunteers to other youths and wider community, raising their attention.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="15113">#N/A</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">14900</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">13357</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1468</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1708-76905401-55</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091708</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905401-55</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Community based adaptation to climate change in Hue.. Community based adaptation to climate change in Hue. 1. Improved understanding about local vulnerability and adaptive capacity to climate changes through two case studies/assessments conducted in two selected communes in Huong Tra and Quang Dien districts of Thua Thien Hue province. 2. Increased knowledge about vulnerability and capacity in incorporating appropriate adaptive measures into livelihood, socio-economic and development strategies and programmes/planning process at household, commune, district and provincial levels 3. Competent officials at local, provincial and central levels are well informed of and are interested in incorporating best adaptation strategies and measures in socio-economic development strategies and plans at commune, district, provincial and central level.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="41081">Environmental education/ training</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="6">Climate Change</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">69428</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">55542</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">13207</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1710-76905401-57</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091710</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905401-57</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">TI program in Vietnam - Strengthening Anti-corruption Demand. Project name: TI program in Vietnam - Strengthening Anti-corruption Demand from Society, Public &amp; Private Sector.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="10000">PUBLIC SECTOR (donor, recipient, other)</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="15113">#N/A</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">9614</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">9614</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">14702</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-5001-76908201</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009095001</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76908201</other-identifier>
+    <title xml:lang="en">Fire-fighting equipment</title>
+    <description xml:lang="en">The developments with fire incidents in Vietnam have worsened considerably. With the rapidly increasing economic activity and urbanisation it is estimated that the risk of fire is also rapidly increasing. The Government has assigned the Ministry of Public Security to unify State administration on fire control throughout the country. Special attention is paid to building up forces and equipping necessary vehicles and working out an investment policy for fire control. By 2010 166 new firefighter teams should be established. The aim of the project is to finance rescue vehicles and training.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-09-24"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Urban area</name>
+    </location>
+    <sector code="32172">Transport equipment industry</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">8216826</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">75467</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-5002-76907701</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009095002</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907701</other-identifier>
+    <title xml:lang="en">Viet Tiep hospital equipment project in Vietnam</title>
+    <description xml:lang="en">Viet Tiep hospital equipment project in Vietnam.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-06-08"/>
+    <activity-date type="end-planned" iso-date="2016-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Haiphong</name>
+    </location>
+    <sector code="12191">Medical services</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">5537344</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">37630</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-5003-76908301</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009095003</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76908301</other-identifier>
+    <title xml:lang="en">Hung Yen water supply project in Vietnam</title>
+    <description xml:lang="en">The objective of the Hung Yen water supply project is the supply and installation of materials, equipment and training for Hung Yen water supply system in order to deliver clean water for private and public purposes. The system consists of water intake structures and pipeline, pumping stations, conventional chemical water treatment plant and distribution network.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-10-02"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Hung Yen town in Vietnam</name>
+    </location>
+    <sector code="14020">Water supply and sanitation - large systems</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">6280804</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">32823</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-5004-76906202</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009095004</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76906202</other-identifier>
+    <title xml:lang="en">Rao II bridge in Vietnam</title>
+    <description xml:lang="en">To construct Rao II bridge in the city of Haiphong in Northern Vietnam. The project aims at accelerating the urban and industrial development of the southern areas of Haiphong city to guarantee positive economic development and reducing the growing congestion in the central city area. The project will also facilitate the development of tourism services in the nearby Do Son town. More foreign investments are likely to be attracted.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-12-16"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Haiphong in Northern Vietnam</name>
+    </location>
+    <sector code="21020">Road transport</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">22966520</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">162374</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-130-79800206</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100130</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">79800206</other-identifier>
+    <title xml:lang="en">Strengthening capacity of the cold water fish farming in Vietnam</title>
+    <description xml:lang="en">ICI-project in North Vietnam; Capacity building for the development of cold water fish farming; activities inc. technical enhancement of public-private cold water aquaculture, training, consultations and national workshops; public-private contacts.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-02"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="51000">Other, institutions</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>North Vietnam</name>
+    </location>
+    <sector code="31320">Fishery development</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">658278</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">18803</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-213-79812201</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100213</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">79812201</other-identifier>
+    <title xml:lang="en">Strengthening of hydro-meteorological services in Vietnam</title>
+    <description xml:lang="en">ICI project between Finnish Meteorological Institute and Vietnam's National Hydro-meteorological Service, NHMS. Problem: lack of ICT tecnology, modern forecasting tools and service production approach in NHMS strategy and implementation. Aim: To increase capacity of NHMS in the reduction of natural disaster risks and in the adaptation of Vietnamese society to climate change. To provide early warning services in the Red River delta, improve modern weather radar tools and technologies and enhance capacity of NHMS management staff. Activities: capacity building including on the job training, workshops and study tour to Finland.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-04-13"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="51000">Other, Finnish Meteorological Institute</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Vietnam; Red River delta</name>
+    </location>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">651913</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">165660</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-246-76907</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100246</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76907</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Project goal is to initiate legislation and action to combat the causes and effects of climate change in Ha Giang Province. Local ethnic minority communities will pilot a participatory community-based flood and land-slide control and prevention model.  Households, especially the poor in the resettlement from flash-floods and land-slide danger areas will develop more resilient livelihood activities to adapt to climate change. Ha Giang Provinceâs leaders and key agencies including Committee of Floods and Storm Control, Department of Planning and Investment and Department of Environment, Natural Resources will be supported in developing their Action Plan of climate change adaptation and mitigation.
+</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="41081">Environmental education/ training</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">35762</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-40-76908501</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100040</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76908501</other-identifier>
+    <title xml:lang="en">Water Supply system in the Vinh City area</title>
+    <description xml:lang="en">The objective of the project of Water Supply System in Vinh City area is to construct a new water supply system to provide fresh water for domestic and industrial demand in Vinh City neighbourhood.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-04-30"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="52000">Other</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Vinh City area in Central Vietnam</name>
+    </location>
+    <sector code="14020">Water supply and sanitation - large systems</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">12190208</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-47-76908401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100047</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76908401</other-identifier>
+    <title xml:lang="en">South Binh Duong Rubbish Treatment Plant Project</title>
+    <description xml:lang="en">Construction of solid waste treatment system in the area of South Binh Duong. Project will create a system to handle and recycle the municipal solid waste. The system will improve the treatment of the non-recyclable solid waste in order to minimize the environmental effects.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-02-11"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="52000">Other</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Vietnam, South Binh Duong</name>
+    </location>
+    <sector code="14050">Waste management/disposal</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">6016864</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-502-76900001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100502</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76900001</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Administrative costs</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-03-11"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="91010">Administrative costs</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="G01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">66225</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">42461</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-503-76900002</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100503</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76900002</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Project name: TI Program in Vietnam - Strenghtening Anti-corruption Demand from Society, Public and Private Sector</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-06-15"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="15113">#N/A</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">324669</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">129868</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-504-76900003</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100504</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76900003</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">The Vietnamese Womenâs Museum and the Tan Minh Single Womenâs Group will undertake the  collaborative development of two public exhibitions and related education programs which will advocate and publicize: (1) Grassroots democracy (enhancing peopleâs participation) as an effective process for poverty alleviation using the Tan Minh Single Womenâs Group micro finance project as a case study example of the effective development and mobilization of a civil society organization through participatory decision making processes.(2)Public behavioral change in relation to womenâs rights and gender equality.
+</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-14"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="15150">Strengthening civil society</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">58775</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">47020</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-505-76900004</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100505</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76900004</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">The project aims to enhance the capacity of members of Hanoi Women Association of Small and Medium Enterprises (HAWASME) for sustainable development including strengthening their business competitiveness, having new business opportunities and overcoming difficulties and also to enable HAWASME to have a sustainable development upon the end of the project.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-10-04"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="25010">Business support services and institutions</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">132450</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">105960</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-506-76900005</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100506</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76900005</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">This community-based climate change adaptation project will provide scientific basis and understanding of the local perception of and adaption capacity to climate changes through case studies/researches in selected sites in one of the most highly vulnerable areas to climate changes in Vietnam - Thua Thien Hue province. This project is unique in term of linking local issues and actions to policy development at local, provincial and national levels. Furthermore, the project would be developed as IREB/International Programme on Climate Change and Risk Variability-IPCRVâs demo-site research for climate change, where many Vietnamese and international institutions/scientists will be involved in future.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-09-17"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="41081">Environmental education/ training</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">66415</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">52980</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-507-76900006</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100507</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76900006</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Green Generation Network got promoted and developed to connect young Vietnamese people who care about climate change and sustainable development in at least 30 volunteer and youth organizations and schools. At least 125 Young green change agents improved their knowledge and skills in facilitating and disseminating the topic of climate change in their groups, schools and network. At least 2000 Youths, students and volunteers in Hanoi, Danang, HCMC and other interested provinces increased their awareness and actions addressing climate change and other sustainable development issues.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-09-15"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="41081">Environmental education/ training</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">16563</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">14907</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-508-76905401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100508</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">76905401</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Vietnam</title>
+    <description xml:lang="en">Bridging Finnish research institutions with Vietnamese ones. Introduce Finnish know-hows and exchange of expertise. Enhance cooperation between Finnish and Vietnamese institutions.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Local</name>
+    </location>
+    <sector code="43081">Multisector education/training</sector>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">447726</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">1429</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-690-19701</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100690</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19701</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen LÃ¤hetysseura ry)</title>
+    <description xml:lang="en">CWS Education of Ethnic Minorities</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen LÃ¤hetysseura ry</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="11220">Primary education</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">56917</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-691-19705</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100691</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19705</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen LÃ¤hetysseura ry)</title>
+    <description xml:lang="en">VietHealth Capacity Building in Disabled Children Project</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen LÃ¤hetysseura ry</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="12261">Health education</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">47727</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-816-19696</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100816</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19696</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen LÃ¤hetysseura ry)</title>
+    <description xml:lang="en">AAT-Vitnam : Assisting the victmis of Human trafficking. To provide rehabilitation and reintegration service to victims of human trafficking.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-01-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen LÃ¤hetysseura ry</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="16050">Multisector aid for basic social services</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">159868</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-817-19700</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100817</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19700</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen LÃ¤hetysseura ry)</title>
+    <description xml:lang="en">CWS: Health and Hygiene Promotion project II phase. To improve the quality of life for ethnic minority people and other disadvantaged groups by increasing the access to and the quality of the health service and practice of hygiene behaviour.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-01-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen LÃ¤hetysseura ry</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">171126</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-818-19701</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100818</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19701</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen LÃ¤hetysseura ry)</title>
+    <description xml:lang="en">CWS: Promotion of Ethnic MinoritiesÂ´ Education Possibilities. To promote the ethnic minorities' right to education. Training of teachers, producing materials.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-01-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen LÃ¤hetysseura ry</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="11220">Primary education</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">275828</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-819-19705</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100819</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">19705</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen LÃ¤hetysseura ry)</title>
+    <description xml:lang="en">Viethealth: Prevention of Early Childhood Disabilities. Providing information on how to prevent newborn and young children from becoming disabled. Training of volunteers and professional health workers.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-01-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen LÃ¤hetysseura ry</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="12261">Health education</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">196026</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-820-89808701</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100820</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">89808701</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (Suomen LÃ¤hetysseura ry)</title>
+    <description xml:lang="en">Viethealth: Prevention of Young Women from getting sexually abused. Improving the sexual health of young women and alleviating the cases of their sexual abuse.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-01-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen LÃ¤hetysseura ry</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="13020">Reproductive health care</sector>
+    <policy-marker significance="2" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">45033</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-839-079-08-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100839</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">079-08-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term establishment in the target country (e.g. subsidiary, representative office, maintenance company)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32130">Small and medium-sized enterprises (SME) development</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">47871</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-842-007-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100842</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">007-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term establishment in the target country (e.g. subsidiary, representative office, maintenance company)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32130">Small and medium-sized enterprises (SME) development</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">42513</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-846-024-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100846</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">024-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="22040">Information and communication technology (ICT)</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">13106</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-853-048-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100853</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">048-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Technology piloting in the target country</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32164">Chemicals</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-870-033-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100870</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">033-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term establishment / partnership in the target country (e.g. subsidiary, maintenance company, joint venture, subcontractor agreement)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32171">Engineering</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">92156</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-879-044-08-VNM-0902</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100879</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">044-08-VNM-0902</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term establishment in the target country (e.g. subsidiary, representative office, maintenance company)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="25010">Business support services and institutions</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">4627</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-882-021-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100882</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">021-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32171">Engineering</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">25262</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-887-035-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100887</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">035-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term establishment in the target country (e.g. subsidiary, representative office, maintenance company)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-09-30"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32171">Engineering</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">13815</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-905-076-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100905</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">076-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32162">Forest industries</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">24526</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-908-070-10-xxx</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100908</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">070-10-xxx</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="22040">Information and communication technology (ICT)</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">73848</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-921-097-09-VNM</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100921</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">097-09-VNM</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32161">Agro-industries</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">66915</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-925-021-09-VNM-0902</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100925</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">021-09-VNM-0902</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term establishment in the target country (e.g. subsidiary, representative office, maintenance company)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Ho Chi Minh City</name>
+    </location>
+    <sector code="32169">Basic metal industries</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">27342</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-935-001-08-VNM-0902</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100935</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">001-08-VNM-0902</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="23070">Biomass</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">50175</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-938-037-10-xxx</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100938</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">037-10-xxx</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Ho Chi Minh City</name>
+    </location>
+    <sector code="11430">Advanced technical and managerial training</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">52074</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-939-084-10-xxx</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100939</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">084-10-xxx</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="99810">Sectors not specified</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">21579</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-945-059-10-xxx</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100945</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">059-10-xxx</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32161">Agro-industries</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">56787</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-958-032-06-VNM-0904</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100958</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">032-06-VNM-0904</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term establishment in the target country (e.g. subsidiary, representative office, maintenance company)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32140">Cottage industries and handicraft</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">18107</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-985-042-10-xxx</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100985</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">042-10-xxx</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <sector code="32171">Engineering</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">15934</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-999-078-10-xxx</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100999</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">078-10-xxx</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with target country company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="VN">Viet Nam</recipient-country>
+    <location>
+      <name>Hanoi</name>
+    </location>
+    <sector code="22040">Information and communication technology (ICT)</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">37207</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

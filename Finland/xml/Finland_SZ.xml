@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:09+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-166-28000301</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">60166</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">28000301</other-identifier>
+    <title xml:lang="en">NGO SUPPORT / DRY SANITATION PROJECT IN MSUNDUZA TOWNSHIP</title>
+    <description xml:lang="en">DRY SANITATION PROJECT IN MSUNDUZA TOWNSHIP</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2008-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="20000">NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY</participating-org>
+    <recipient-country code="SZ">Swaziland</recipient-country>
+    <location>
+      <name>Msunduza town</name>
+    </location>
+    <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">116669</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">61191</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">216357</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">69595</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">72413</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">63576</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1052-280SP042</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091052</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">280SP042</other-identifier>
+    <title xml:lang="en">Frame Agreement with NGO (Finnish Red Cross)</title>
+    <description xml:lang="en">Integrated Food Security and HIV/Aids. Improved food security for HIV/Aids infected rural population in Swaziland.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="SZ">Swaziland</recipient-country>
+    <sector code="16064">Social mitigation of HIV/AIDS</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">378777</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">122589</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-347-28000401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100347</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">28000401</other-identifier>
+    <title xml:lang="en">Local Cooperation Fund (LCF) in Swaziland</title>
+    <description xml:lang="en">Unallocated. Will be allocated in 2010.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-02"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="11000">Embassy of Finland</participating-org>
+    <recipient-country code="SZ">Swaziland</recipient-country>
+    <sector code="99810">Sectors not specified</sector>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">39735</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-8-28000601</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100008</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">28000601</other-identifier>
+    <title xml:lang="en">Storycrafting in Swaziland</title>
+    <description xml:lang="en">The project aims to develop early education in Swaziland by arranging education for workers working with children about method called story crafting. During the project about 40 workers will attend one-week course and practice the method in their institutions. After the course the institutions will also be helped to develop the method to be useful to these institutions and suitable for Swazi culture and traditions. By story crafting children learn to express themselves, to deal with difficult experiences and their self esteem gets better. It also develops learning and reading skills.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-11-04"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, SOS - LapsikylÃ¤ ry</participating-org>
+    <recipient-country code="SZ">Swaziland</recipient-country>
+    <sector code="11130">Teacher training</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">185185</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

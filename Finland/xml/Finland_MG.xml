@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:09+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-144-25200801</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">60144</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">25200801</other-identifier>
+    <title xml:lang="en">NGO SUPPORT / TANY MAITSO</title>
+    <description xml:lang="en">AIM: TO IMPROVE THE FOOD SECURITY IN VILLAGES SURROUNDING THE PROTECTED FORESTS; TO PROVIDE ALTERNATIVE INCOME GENERATING ACTIVITIES IN ORDER TO REDUCE THE DEPENDENCE ON FOREST RESOURCES. ACTIVITIES: TRAINING AND AWARENESS RAISING (BEEKEEPING, CROP PRODUC</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="20000">NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY</participating-org>
+    <recipient-country code="MG">Madagascar</recipient-country>
+    <location>
+      <name>Province of Fianarantsoa, Ranomafana and Manombono villages</name>
+    </location>
+    <sector code="41030">Bio-diversity</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="2" code="5">Biological Diversity</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">180181</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">67091</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">43271</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">229646</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">68305</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">20517</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">63045</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-23-25200901</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080023</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">25200901</other-identifier>
+    <title xml:lang="en">NGO Support / Literacy for youth in Madagaskar</title>
+    <description xml:lang="en">Aims: To provide primary education for young people who are outside the official education system in order to improve their well-being and possibilities for further learning; develop teaching and learning methods (integrated_ functional); strengthen the capacity of local NGOs. Activities: establish learning centers; organize basic and vocational education according to the local needs; train trainers; monitor activities and learning results.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-11-14"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="MG">Madagascar</recipient-country>
+    <location>
+      <name>Madagaskar; marginalized areas of Antananarivon_ Androy_ Atsimo Atsinanana and Haute Matsiatra</name>
+    </location>
+    <sector code="11230">Basic life skills for youth and adults</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">783672</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">241674</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">236462</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-145-25201001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100145</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">25201001</other-identifier>
+    <title xml:lang="en">Natural Forest Protection</title>
+    <description xml:lang="en">The project aims at developing a method to protect small-sized natural forests in Madagaskar, where fargmentation of the forests is a problem. In the pilot phase, the methods of conservation are forest restoration and creation of buffer zones by planting trees which provide food and wood for local people. This benefits also local agriculture and water resources, which promotes local participation in conservation. In the second phase, the purpose is to develop a forest monitoring system utilising remote sensing. In the future, the results can be applied in REDD projects for instance.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-11-04"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, Suomen Luonnonsuojeluliitto ry</participating-org>
+    <recipient-country code="MG">Madagascar</recipient-country>
+    <location>
+      <name>Southwestern Madagaskar, Ihorombe Region, Ranohira Menamaty-Iloto District, Manambolo forest</name>
+    </location>
+    <sector code="41030">Bio-diversity</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="5">Biological Diversity</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">52980</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

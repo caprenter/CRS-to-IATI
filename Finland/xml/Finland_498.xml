@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:11+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-1996-3916-81204001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">963916</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">81204001</other-identifier>
+    <title xml:lang="en">INTL FEDER ON HUMAN RIGHTS</title>
+    <description xml:lang="en">LEGAL COPERATION IN LATIN AMERICA</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2003-01-01"/>
+    <activity-date type="end-planned" iso-date="2004-12-01"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <sector code="15160">Human rights</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2002-01-01">188484</value>
+      <transaction-date iso-date="2002-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2003-12-31">112982</value>
+      <transaction-date iso-date="2003-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2003-3043-80700161</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2003033043</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">80700161</other-identifier>
+    <title xml:lang="en">Partnership agreement IDB</title>
+    <description xml:lang="en">Partnership Agreement with IDB to support good governance, environmental protection, social development, forestry and information technology.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2004-01-01"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="46012">Inter-American Development Bank Ordinary Capital, Inter-American Investment Corporation (IIC) and Multilateral Investment Fund</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <sector code="43010">Multisector aid</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="1" code="5">Biological Diversity</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <policy-marker significance="1" code="8">Desertification</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">993377</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-1054-3702</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008081054</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">3702</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (SASK)</title>
+    <description xml:lang="en">The development goals of the project are the improvement of working conditions of workers in the telecommunications field, along with an increase in their bargaining status regarding working conditions.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <location>
+      <name>Andean countries</name>
+    </location>
+    <sector code="16020">Employment policy and administrative management</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">175396</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">47861</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">50960</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-1055-3801</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008081055</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">3801</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (SASK)</title>
+    <description xml:lang="en">The development objective of the project in increased union influence on national and regional participation systems. The aim is to have decent work and the labour and social changes listed in PLA included in legislation and/or public programmes.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <sector code="16020">Employment policy and administrative management</sector>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">155683</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">24790</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">25502</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-143-80700175</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008080143</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">80700175</other-identifier>
+    <title xml:lang="en">Knowledge Economy (KE) and Sustainable Energy and Climate Change through IDB</title>
+    <description xml:lang="en">In IDB the planned Knowledge Economy fund would finance the development of information society. The SECCI-programme of IDB is focused on develoment of clean energy and energy efficiency</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2008-12-15"/>
+    <activity-date type="end-planned" iso-date="2008-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="46012">Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment F</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <location>
+      <name>Latin America and the Caribbean</name>
+    </location>
+    <sector code="99810">Sectors not specified</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="6">Climate Change</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">4327131</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">4327131</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">463576</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">463576</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-1282-48903501</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009091282</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">48903501</other-identifier>
+    <title xml:lang="en">Andean Regional Forestry Partnership</title>
+    <description xml:lang="en">The forest partnership in the Andean region (Peru, Ecuador, Kolumbia ja Bolivia) aims to contribute to the sustainable development of forests in the region. Program will establish an innovative demand- driven Fund in the Forest sector which will co-finance e.g.  feasibility studies, piloting or other relevant activities on innovations, or removal of bottlenecks from major investments or from major policy changes. The focus is on Sustainable Forest Management (SFM) and Forest Plantations.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-12-10"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <location>
+      <name>Andean Region (Peru, Bolivia, Ecuador, Colombia)</name>
+    </location>
+    <sector code="31220">Forestry development</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="1" code="4">Trade Development</policy-marker>
+    <policy-marker significance="1" code="5">Biological Diversity</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <policy-marker significance="1" code="8">Desertification</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">8703523</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1324503</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-156-49800301</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100156</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">49800301</other-identifier>
+    <title xml:lang="en">IDB 9 General Oncrease in the resources of the IDB</title>
+    <description xml:lang="en">The IDBÂ´s Board of Governors agreed in 2010 to increase the Bankâs ordinary capital by $70 billion, the largest expansion of resources in the Bankâs history, and to provide an unprecedented package of financial support to Haiti. The agreement also includes a replenishment of the Fund for Special Operations, which finances operations in the regionâs poorest nations. On top of the continuing needs in infrastructure, social development and financial intermediation, the LAC region faces emerging challenges related to equity of opportunities, social protection, decentralization, productive innovation, regional integration, carbon emissions, natural disaster protection and food security.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-12-14"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="46012">IDB</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <sector code="43010">Multisector aid</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <collaboration-type code="2"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="B02"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">3337748</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-159-49800401</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100159</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">49800401</other-identifier>
+    <title xml:lang="en">IDB Fund for Special Operations</title>
+    <description xml:lang="en">Less advantaged countries receive benefits from resources of the Inter-American development Bank Fund for Special Operations (FSO), whose assets are made up of contributions from IDB member countries. FSO resources are used to provide concessional loans to the poorest countries of the  region: Bolivia, Guyana, Honduras and Nicaragua, Guatemala and Paraguay also receive a smaller share of FSO financing, in addition to regular access to the Ordinary Capital. In 2010 the Board of Governors of the IDB agreed to provide $479 million in new contributions to the FSO to provide full debt relief and additional resources to Haiti, and ensure the sustainability of the FSO until 2020.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-12-14"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="46013">International Development Association (IDA)</participating-org>
+    <recipient-region code="498">America, regional</recipient-region>
+    <sector code="43010">Multisector aid</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <collaboration-type code="2"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="B02"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1033113</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

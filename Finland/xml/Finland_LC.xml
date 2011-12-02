@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:11+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2005-4001-AFR2003037</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2005054001</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">AFR2003037</other-identifier>
+    <title xml:lang="en">Investment-related loan through Finnfund</title>
+    <description xml:lang="en">Investment-related loan through Finnfund, Telecommunications.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="10000">Finnfund</participating-org>
+    <recipient-country code="LC">St. Lucia</recipient-country>
+    <sector code="22020">Telecommunications</sector>
+    <collaboration-type code="1"/>
+    <default-flow-type code="20"/>
+    <default-finance-type code="410"/>
+    <default-tied-status code="4"/>
+  </iati-activity>
+</iati-activities>

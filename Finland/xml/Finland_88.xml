@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:08+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2004-3015-86205801</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2004003015</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">86205801</other-identifier>
+    <title xml:lang="en">Forestry Training</title>
+    <description xml:lang="en">Elevated capacity for modern forest economics and policy training and research established in Balkan region</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2004-06-01"/>
+    <activity-date type="end-planned" iso-date="2016-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-region code="88">States Ex-Yugoslavia</recipient-region>
+    <location>
+      <name>Western Balkan</name>
+    </location>
+    <sector code="31281">Forestry education/training</sector>
+    <policy-marker significance="2" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="4"/>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">742799</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2011-11-25T10:59:08+00:00" version="1.00">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-29-18900101</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100029</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">18900101</other-identifier>
+    <title xml:lang="en">Promoting better health and well being amongst migrants with special focus on women, lactating mothers and children.</title>
+    <description xml:lang="en">IOM's (International Organization for Migration) project promotes better health and well being amongst migrants - with special focus on women, lactating mothers and children - transiting through Egypt and Yemen. Project has two parts 1) three-year project in Egypt that builds on the experiences gained from IOM's pilot project that promoted health and well being in the Iraqi migrant communities and 2) one-year project in Yemen to empower the Government and civil society to protect victims of trafficking. The Project will support Egypt's and Yemen's efforts to achieve three of the MDGs.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-12-14"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="47066">International Organization for Migration (IOM)</participating-org>
+    <recipient-region code="189">North of Sahara, regional</recipient-region>
+    <location>
+      <name>Egypt and Yemen</name>
+    </location>
+    <sector code="12261">Health education</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">1986755</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-58-18900001</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100058</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">18900001</other-identifier>
+    <title xml:lang="en">UNHCR Confidence Building Measure</title>
+    <description xml:lang="en">Pursuant to UN Security Council Resolution 1282 of 1999 and subsequent resolutions, UNHCR has been promoting Confidence Building Measures (CBM), in cooperation with Morocco and the POLISARIO and the support of Algeria and Mauritania, to facilitate contact between the Sahrawi refugees in camps near Tindouf, Algeria and their family members in Western Sahara.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-06-03"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="41121">United Nations High Commissioner for Refugees (UNHCR)</participating-org>
+    <recipient-region code="189">North of Sahara, regional</recipient-region>
+    <location>
+      <name>LÃ¤nsi-Sahara, Algeria, Marokko</name>
+    </location>
+    <sector code="15150">Strengthening civil society</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="B03"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">387195</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">387195</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>
